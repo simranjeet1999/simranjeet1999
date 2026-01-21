@@ -7,8 +7,14 @@
 </p>
 
 <p align="center">
-  <em>Full-Stack Developer & AI/ML Enthusiast</em> | MS in Computer Science (GPA 3.91) | Passionate about scalable applications, performance optimization, and intelligent systems (RAG, LLMs, analog in-memory computing)
+  <strong>Full-Stack Software Engineer & AI/ML Enthusiast</strong> | MS in Computer Science (GPA 3.91) | Passionate about building high-performance, scalable applications and intelligent systems.
 </p>
+
+I'm a results-driven engineer with 2+ years of enterprise experience at Tata Consultancy Services (Java/Spring Boot backends + React/Angular frontends) where I optimized Angular apps for 35–40% faster loads, automated Jenkins CI/CD on AWS to cut deployment time by 50–55%, and improved MySQL query performance by 25% during peak usage. Currently a Research Assistant at UT Arlington, I'm developing Python simulation engines for analog in-memory computing (AIMC) crossbar arrays and refactoring React-based lab tools for 25% better responsiveness.
+
+Skilled in full-stack development (React, Node.js, Spring Boot), DevOps (Docker, Kubernetes, Terraform, AWS), and AI/ML (PyTorch, TensorFlow, LangChain, RAG pipelines, LLMs like GPT-4). Built projects like a RAG-based PDF Q&A chatbot (85–90% factual accuracy), speech emotion recognition CNN/DNN (72.74% accuracy), and a responsive Node.js tour booking app (<200ms responses).
+
+Always eager to collaborate on performance-critical apps, LLM integrations, or open-source contributions. Let's connect if you're working on innovative full-stack, cloud-native, or AI projects! 🚀
 
 ### 🛠️ Technical Skills
 <p align="center">
@@ -45,16 +51,6 @@
   Refactored React-based lab website: interactive project cards, publications section, 25% faster page loads & better responsiveness.
 
 
-### 📈 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simranjeet1999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranjeet1999&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simranjeet1999&theme=radical&hide_border=true" alt="Contribution Streak"/>
-</p>
 
 ### 🚀 Featured Projects
 - **[PDF Document Q&A Chatbot](https://simranjeet1999.github.io/)** (LangChain + OpenAI + FAISS)  
