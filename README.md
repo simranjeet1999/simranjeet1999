@@ -59,6 +59,8 @@ Always eager to collaborate on performance-critical apps, LLM integrations, or o
   CNN/DNN models achieving **72.74%** accuracy on emotion classification from audio.
 - **[Nat Tour Application](https://simranjeet1999.github.io/)** (Node.js, Express, MongoDB)  
   Full-stack nature tour booking app with smooth UX & mock payment integration (<200ms responses).
+  - **Asana Web Automation Testing** (Selenium, Python, Pytest)  
+  15+ automated test cases covering login, task management, and search with Page Object Model pattern — robust validation for critical workflows.
 
 
 ### 💼 Professional Experience Highlights
