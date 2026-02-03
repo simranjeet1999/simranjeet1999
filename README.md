@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer & AI/ML Enthusiast</strong> | MS in Computer Science (GPA 3.91) | Passionate about building high-performance, scalable applications and intelligent systems.
+  <strong>Full-Stack Software Engineer</strong> | MS in Computer Science (GPA 3.91) | Passionate about building high-performance, scalable applications and intelligent systems.
 </p>
 
 I'm a results-driven engineer with 2+ years of enterprise experience at Tata Consultancy Services (Java/Spring Boot backends + React/Angular frontends) where I optimized Angular apps for 35–40% faster loads, automated Jenkins CI/CD on AWS to cut deployment time by 50–55%, and improved MySQL query performance by 25% during peak usage. Currently a Research Assistant at UT Arlington, I'm developing Python simulation engines for analog in-memory computing (AIMC) crossbar arrays and refactoring React-based lab tools for 25% better responsiveness.
