@@ -46,7 +46,7 @@ Always eager to collaborate on performance-critical apps, LLM integrations, or o
 - **Adaptability & Initiative**: Refactored code for cross-device responsiveness, automated workflows on AWS, and handled production rollbacks to minimize downtime
 
 ### 🔥 Currently Working On
-- **Research Assistant @ UT Arlington** (Sept 2025 – Present)  
+- **software Developer @ UT Arlington** (Sept 2025 – Present)  
   Developing a Python simulation engine for **analog in-memory computing (AIMC)** crossbar arrays — modeling device non-idealities & circuit behavior.  
   Refactored React-based lab website: interactive project cards, publications section, 25% faster page loads & better responsiveness.
 
