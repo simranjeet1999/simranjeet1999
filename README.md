@@ -12,7 +12,7 @@
 
 I'm a results-driven engineer with 2+ years of enterprise experience at Tata Consultancy Services (Java/Spring Boot backends + React/Angular frontends) where I optimized Angular apps for 35–40% faster loads, automated Jenkins CI/CD on AWS to cut deployment time by 50–55%, and improved MySQL query performance by 25% during peak usage. Currently a Research Assistant at UT Arlington, I'm developing Python simulation engines for analog in-memory computing (AIMC) crossbar arrays and refactoring React-based lab tools for 25% better responsiveness.
 
-Skilled in full-stack development (React, Node.js, Spring Boot), DevOps (Docker, Kubernetes, Terraform, AWS), and AI/ML (PyTorch, TensorFlow, LangChain, RAG pipelines, LLMs like GPT-4). Built projects like a RAG-based PDF Q&A chatbot (85–90% factual accuracy), speech emotion recognition CNN/DNN (72.74% accuracy), and a responsive Node.js tour booking app (<200ms responses).
+Skilled in full-stack development (React, Node.js, Spring Boot), DevOps (Docker, Kubernetes, Terraform, AWS), and AI/ML (PyTorch, TensorFlow, LangChain, RAG pipelines, LLMs like GPT-4). Built projects like speech emotion recognition CNN/DNN (72.74% accuracy), and a responsive Node.js tour booking app (<200ms responses).
 
 Always eager to collaborate on performance-critical apps, LLM integrations, or open-source contributions. Let's connect if you're working on innovative full-stack, cloud-native, or AI projects! 🚀
 
@@ -34,7 +34,7 @@ Always eager to collaborate on performance-critical apps, LLM integrations, or o
 
 - **Languages & Core**: Python, Java, C/C++, JavaScript/TypeScript, C#
 - **Frontend**: React, Angular, HTML/CSS, Next.js (learning)
-- **Backend**: Node.js/Express, Spring Boot, .NET, REST APIs
+- **Backend**: Node.js/Express, .NET, REST APIs
 - **DevOps & Tools**: AWS, Docker, Kubernetes, Jenkins CI/CD, Terraform, Git, Postman, Kibana, Grafana, Linux/Unix, Bash
 - **Databases**: MySQL, OracleDB, PL/SQL, MongoDB
 - **AI/ML**: PyTorch, TensorFlow, LangChain, LLMs (Llama, GPT-4), RAG Pipelines, CNN/DNN for audio (emotion recognition)
@@ -53,8 +53,6 @@ Always eager to collaborate on performance-critical apps, LLM integrations, or o
 
 
 ### 🚀 Featured Projects
-- **[PDF Document Q&A Chatbot](https://simranjeet1999.github.io/)** (LangChain + OpenAI + FAISS)  
-  RAG pipeline for accurate document Q&A — 85-90% factual accuracy on embeddings & retrieval.
 - **[EMOVOICE – Speech Emotion Recognition](https://simranjeet1999.github.io/)** (PyTorch, Librosa, RAVDESS)  
   CNN/DNN models achieving **72.74%** accuracy on emotion classification from audio.
 - **[Nat Tour Application](https://simranjeet1999.github.io/)** (Node.js, Express, MongoDB)  
